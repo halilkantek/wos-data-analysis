@@ -1,7 +1,9 @@
 # wos-data-analysis
-Bu çalışmada 2003-2023 yılları arasında yapılan çalışmaların verileri taranmıştır. kullanılan anahtar kelimeler
-1. Yapay zeka
-2. Makine öğrenimi
-3. Derin öğrenme
-4. Sinir ağları
-5. Doğal dil işleme
+
+In this study, data from studies conducted between 2003 and 2023 were scanned. 
+keywords used 
+1. Artificial intelligence
+2. Machine learning
+3. Deep learning
+4. Neural networks
+5. Natural language processing
