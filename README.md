@@ -7,3 +7,6 @@ keywords used
 3. Deep learning
 4. Neural networks
 5. Natural language processing
+
+
+The data is bibtex extension. For this purpose, firstly it was converted to Excel.
