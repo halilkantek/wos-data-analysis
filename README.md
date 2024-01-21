@@ -10,4 +10,6 @@ keywords used
 
 
 The data is bibtex extension. For this purpose, firstly it was converted to Excel.
+
+It is the process of converting bibtex extension data into xlsx extension data and then editing the data suitable for the project.
 The project is in the development phase and the transactions will be added soon.
