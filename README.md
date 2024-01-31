@@ -9,6 +9,5 @@ keywords used
 5. Natural language processing
 
 
-The data is bibtex extension. For this purpose, firstly it was converted to Excel.
 
 
